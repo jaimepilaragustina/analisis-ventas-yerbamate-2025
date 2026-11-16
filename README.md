@@ -21,6 +21,7 @@ Herramientas utilizadas
 
 Proceso de trabajo
 
+
     Integración de 12 archivos correspondientes a los meses de enero a diciembre de 2025 mediante Power Query.
 
     Consolidación de una base anual de 120 registros, correspondientes a 10 productos durante 12 meses.
@@ -92,3 +93,7 @@ La utilización de Power Query permitió integrar y transformar información pro
 Este proyecto permitió aplicar herramientas de Excel y Power Query en un caso práctico de análisis de datos comerciales.
 
 Proyecto desarrollado con fines de aprendizaje y portfolio profesional.
+
+## Dashboard
+
+![Dashboard de ventas de yerba mate 2025](dashboard%20mate.png)
